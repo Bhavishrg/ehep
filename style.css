@@ -135,3 +135,9 @@ footer {
 .facontainer li:hover {
   color: #006237;
 }
+
+.bn-primary {
+    color: #fff;
+    background-color: #000F;
+    border-color: #000F;
+  }
